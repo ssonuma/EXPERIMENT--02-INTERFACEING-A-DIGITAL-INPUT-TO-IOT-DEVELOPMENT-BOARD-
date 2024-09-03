@@ -109,7 +109,8 @@ void IRsensor()
 ```
 
 ## Output  :
- ![image](https://github.com/user-attachments/assets/0074ea60-5df9-45f9-92bc-750794737b8e)
+![Ex 02 IoT](https://github.com/user-attachments/assets/62c34709-eb73-4ff3-a645-6d37a5317fa6)
+
 
  
  
